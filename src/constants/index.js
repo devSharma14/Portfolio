@@ -196,7 +196,7 @@ const projects = [
       },
     ],
     image: Memories,
-    source_code_link: "https://github.com/devSharma14/Blog",
+    source_code_link: "https://memories-project-blog.vercel.app/",
   },
   {
     name: "MedEase",
